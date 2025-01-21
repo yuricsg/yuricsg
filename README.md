@@ -20,8 +20,8 @@ Me chamo Yuri França, tenho 20 anos. Atualmente, estou cursando Análise e Dese
 
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Java"
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
@@ -29,8 +29,8 @@ Me chamo Yuri França, tenho 20 anos. Atualmente, estou cursando Análise e Dese
 
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Spring"
+    title="Spring" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
@@ -38,8 +38,8 @@ Me chamo Yuri França, tenho 20 anos. Atualmente, estou cursando Análise e Dese
 
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Python"
+    title="Python" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
@@ -47,8 +47,8 @@ Me chamo Yuri França, tenho 20 anos. Atualmente, estou cursando Análise e Dese
 
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="JavaScript"
+    title="JavaScript" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
@@ -56,8 +56,8 @@ Me chamo Yuri França, tenho 20 anos. Atualmente, estou cursando Análise e Dese
 
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Postman"
+    title="Postman" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
@@ -65,8 +65,8 @@ Me chamo Yuri França, tenho 20 anos. Atualmente, estou cursando Análise e Dese
 
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="MySQL"
+    title="MySQL" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
