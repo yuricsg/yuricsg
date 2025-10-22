@@ -1,8 +1,9 @@
 # 💻 Yuri França
 
-**`Estudante de Análise e Desenvolvimento de Sistemas`**
+**`Desenvolvedor Fullstack Junior`**
 
-Me chamo Yuri França, tenho 20 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Cesar School. Dedico grande parte do meu estudo para Desenvolvimento Back-End.
+Desenvolvedor Fullstack Junior e estudante de Análise e Desenvolvimento de Sistemas na Cesar School.
+Focado em construir aplicações web completas e eficientes, com experiência em tecnologias como TypeScript e Java. Estou sempre em busca de novos desafios para aplicar e expandir meu conhecimento.
 
 <a href="https://github.com/yuricsg?tab=followers">
         <img 
