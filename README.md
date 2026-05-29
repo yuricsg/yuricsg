@@ -3,7 +3,7 @@
 **`Desenvolvedor Fullstack Jr`**
 
 Desenvolvedor Fullstack Junior e estudante de Análise e Desenvolvimento de Sistemas na **CESAR School**.
-Focado em construir aplicações web completas e eficientes, com experiência em tecnologias como TypeScript e Java. Estou sempre em busca de novos desafios para aplicar e expandir meu conhecimento.
+Focado em construir aplicações web completas e eficientes, com experiência em tecnologias como TypeScript e Python. Estou sempre em busca de novos desafios para aplicar e expandir meu conhecimento.
 
 
 </p>
